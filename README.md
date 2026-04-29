@@ -2,7 +2,7 @@
 **Currently pursuing B.Tech in Computer Science Engineering (AI Specialization)**
 
 # 💫 About Me:
-💡 Passionate about solving real-world problems using Artificial Intelligence<br><br>🎓 Currently pursuing B.Tech in Computer Science Engineering (AI Specialization)<br><br>💻 Skilled in C, Java, Python, and HTML<br><br>🚀 Exploring the world of AI, Machine Learning, and Software Development<br><br>📚 Continuously learning and building projects to enhance my technical skills<br><br>💬 Open to discussions on programming, AI, and emerging technologies<br><br>📫 Reach me at: nknilkamal81@gmail.com<br><br>😄 Fun fact: I enjoy learning by building and experimenting with new ideas
+Passionate about solving real-world problems using Artificial Intelligence<br><br>Currently pursuing B.Tech in Computer Science Engineering (AI Specialization)<br><br>Skilled in C, Java, Python, and HTML<br><br>Exploring the world of AI, Machine Learning, and Software Development<br><br>Continuously learning and building projects to enhance my technical skills<br><br>Open to discussions on programming, AI, and emerging technologies<br><br>Reach me at: nknilkamal81@gmail.com<br><br>Fun fact: I enjoy learning by building and experimenting with new ideas
 
 
 ## 🌐 Socials:
